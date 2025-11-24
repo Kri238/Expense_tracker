@@ -5,12 +5,12 @@ It allows users to record, view, categorize, and search expenses stored in a CSV
 The goal is to help keep track of daily spending while learning important programming concepts such as file handling, modular programming, and CSV data storage.
 
 **Key Features**
-Add new expenses(date, category, amount, description)
-View all expenses
-View expenses by category
-Search expenses by description
-Data stored in CSV format
-Exception handling for invalid rows
+- Add new expenses(date, category, amount, description)
+- View all expenses
+- View expenses by category
+- Search expenses by description
+- Data stored in CSV format
+- Exception handling for invalid rows
 
 **Tools Used**
 - Python 
