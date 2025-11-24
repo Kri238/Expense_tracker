@@ -24,3 +24,7 @@ The goal is to help keep track of daily spending while learning important progra
 ```bash
 git clone https://github.com/yourusername/expense-tracker.git
 cd expense-tracker
+
+<img width="685" height="67" alt="image" src="https://github.com/user-attachments/assets/6fad61c9-9ddd-4191-8f7b-f112f70ec4ab" />
+
+
